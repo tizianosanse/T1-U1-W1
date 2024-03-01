@@ -57,11 +57,12 @@ h2 {
 .button-1 {
   height: 5vh;
   width: 200px;
-  margin-top: 3.5em;
+  margin-top: 2em;
   background-color: #f04c2f;
   color: snow;
   font-weight: bold;
   border-radius: 5%;
+  border: #f04c2f;
 }
 
 .article-0 {
