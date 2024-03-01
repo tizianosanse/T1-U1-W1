@@ -41,7 +41,7 @@ h2 {
   background-image: url(../images/banner.jpg);
   background-position: 40% center;
   width: 100%;
-  height: 70vh;
+  height: 75vh;
   text-align: center;
   background-size: 700px;
   box-sizing: content-box;
@@ -51,7 +51,7 @@ h2 {
   color: #25a2c3;
 }
 .articleheader p {
-  font-size: 1em;
+  font-size: 1.5em;
   color: #393d41a4;
 }
 .button-1 {
@@ -73,8 +73,7 @@ h2 {
 }
 .divnotebook {
   width: 100%;
-  height: 35vh;
-  text-align: center;
+  height: 50%;
 }
 .notebook {
   border-radius: 50%;
@@ -82,6 +81,7 @@ h2 {
   height: 300px;
   margin-top: 5%;
   margin-left: 1em;
+  text-align: end;
 }
 
 .article-01 {
